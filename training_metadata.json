@@ -1,0 +1,6 @@
+{
+  "completed_epochs": 10,
+  "total_epochs": 10,
+  "final_accuracy": 0.9278565645217896,
+  "final_val_accuracy": 0.8828903436660767
+}

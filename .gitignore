@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Large files
+*.h5
+*.pkl
+*.zip
+
+# Directories
+uploads/
+checkpoints/
+blood_group_dataset/
+.vscode/
+.pytest_cache/
+
+# System
+.DS_Store
+*.log
